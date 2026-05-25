@@ -8,8 +8,8 @@ Practical notebooks and competition resources for the Machine Learning course.
 
 | Notebook | Topic | Key concepts |
 |---|---|---|
-| [`labs/lab1_MLE_MAP.ipynb`](labs/lab1_MLE_MAP.ipynb) | MLE & MAP | MLE = Least Squares, MAP = Ridge Regression, overfitting, basis functions |
-| [`labs/lab2_Perceptron_SVM.ipynb`](labs/lab2_Perceptron_SVM.ipynb) | Perceptron & Linear SVM | Hyperplane, loss functions, Perceptron update rule, hard/soft-margin SVM, effect of C |
+| [`labs/lab1_Perceptron_SVM.ipynb`](labs/lab1_Perceptron_SVM.ipynb) | Perceptron & Linear SVM | Hyperplane, loss functions, Perceptron update rule, hard/soft-margin SVM, effect of C |
+| [`labs/lab2_MLE_MAP.ipynb`](labs/lab2_MLE_MAP.ipynb) | MLE & MAP | MLE = Least Squares, MAP = Ridge Regression, overfitting, basis functions |
 
 Each notebook contains:
 - Theory recap with formulas
