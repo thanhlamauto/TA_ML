@@ -30,8 +30,8 @@ Build a **linear SVM classifier** to detect whether an industrial sensor is faul
 | **Metric** | Macro F1-score (balances precision and recall on both classes) |
 | **Data** | 2 000 train / 2 000 test rows, 30 sensor features |
 | **Allowed models** | Linear SVM only — `SVC(kernel='linear')`, `LinearSVC`, or `SGDClassifier(loss='hinge')` |
-| **Submissions** | Up to 5 per day, select 2 final submissions |
-| **Team size** | Max 5 members |
+| **Submissions** | Up to 15 per day, select 2 final submissions |
+| **Team size** | Individual only (1 member) |
 
 **Tips:** Feature scaling matters (try `StandardScaler` or `RobustScaler`). Tune `C` carefully. The dataset has class imbalance, so macro F1 penalises ignoring the minority class.
 
