@@ -1,0 +1,5 @@
+gymnasium[classic-control,toy-text]
+jupyter
+matplotlib
+numpy
+torch
